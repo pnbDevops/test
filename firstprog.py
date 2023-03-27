@@ -4,6 +4,7 @@ hungry=input("What do you want to have....\n")
 
 if(hungry=="yes"):
     print("samsosas and tea .....")
+    print("pizza")
 
 else:
     print("Ok no issues but eat something")
